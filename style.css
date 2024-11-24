@@ -1,0 +1,70 @@
+html{
+    background-color: rgb(238, 238, 238);
+}
+
+.main {
+    font-family: sans-serif;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(238, 238, 238);
+}
+
+.right {
+    float: right;
+}
+
+.heading {
+    color: #585858;
+    padding-left: 20px;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.paragraph {
+    font-size: 16px;
+    color: #6d6d6d;
+    width: 500px;
+    height: 90px;
+}
+
+.section {
+    float: right;
+    color: #585858;
+}
+
+.PB {
+    width: 635px;
+    height: 8px;
+    background-color: #1098f8;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.hr {
+    width: 635px;
+    height: 1px;
+    background-color: rgb(209, 209, 209);
+    margin-bottom: 20px;
+}
+
+.left {
+    margin-left: 50px;
+}
+
+.last {
+    width: 1050px;
+    margin-top: 80px;
+    margin-left: 80px;
+    height: 150px;
+    background-color: #1098f8;
+    text-align: center;
+    color: #ffffff;
+}
+
+.end {
+    font-size: 38px;
+    font-weight: bold;
+    width: 525px;
+    height: 75px;
+    
+}
